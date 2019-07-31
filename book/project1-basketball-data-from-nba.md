@@ -4,9 +4,17 @@ layout: default
 
 #### NBA introduction
 
-[NBA](nba.com) is popular site when you want to to find information about men's professional basketball league in North America. In this chapter we will do some scraping project on this site.
+[NBA](nba.com) is popular site when you want to to find information about men's professional basketball league in North America. In this chapter we will do 4 difference missions to scraping data on this site.
 
+* scrape name of all players
 
+* scrape name and detail link of all players
+
+* scrape detail information of all players
+
+* scrape image of all players
+
+  
 
 #### Mission 1 : Scrape name of all active player
 
@@ -73,7 +81,7 @@ Alexander, Kyle
 
 
 
-#### Mission 2 : Scrape name of all active player
+#### Mission 2 : Scrape name and detail link of all active player
 
 In this mission we scrape name and correspond link to detail information of that player.
 
@@ -133,7 +141,7 @@ pie :  12.0
 
 
 
-#### Mission 4 : Scrape image for all playters
+#### Mission 4 : Scrape image for all players
 
 Now we want to get image for each player
 
