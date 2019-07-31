@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#### NBA introduction
+#### NBA projects introduction
 
 [NBA](nba.com) is popular site when you want to to find information about men's professional basketball league in North America. In this chapter we will do 4 difference missions to scraping data on this site.
 
