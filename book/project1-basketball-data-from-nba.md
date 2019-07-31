@@ -141,3 +141,8 @@ Now we want to get image for each player
 
 Result should as following video
 
+
+
+<video width="700" height="500" controls>  
+    <source src="images/player_image.mp4" type="video/mp4">
+</video>
