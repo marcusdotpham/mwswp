@@ -1,8 +1,7 @@
 from selenium import webdriver
 from bs4 import BeautifulSoup
-import json
 import requests
-import os
+
 
 driver = webdriver.Chrome(executable_path=r'C:\chromedriver_win32\chromedriver.exe')
 
