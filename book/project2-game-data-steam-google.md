@@ -4,12 +4,16 @@ layout: default
 
 #### Steam projects
 
-Google is Google, seem I not need to tell what Google is. We will do following mission with Google.
+Steam is a video game digital distribution platform developed by Valve Corporation. We have 2 mission when scrape data from Steam
 
-* Scrape search result from Google
-* Scrape image search result from Google
+* Scrape top selling items
+* Scrape top selling items with detail information description
 
-#### Mission 1 :
+#### Mission 1 : Scrape top selling items
+
+Let access url https://store.steampowered.com/tags/en/Education/#p=0&tab=TopSellers
+
+We will see a table list out the top seller
 
 #### Mission 2 :
 
