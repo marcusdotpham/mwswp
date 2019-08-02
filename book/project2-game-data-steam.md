@@ -11,9 +11,11 @@ Steam is a video game digital distribution platform developed by Valve Corporati
 
 #### Mission 1 : Scrape top selling items
 
-Let access url https://store.steampowered.com/tags/en/Education/#p=0&tab=TopSellers
+Let access url https://store.steampowered.com/search/?filter=topsellers&os=win
 
 We will see a table list out the top seller
+
+![](images/2019-08-02_6-22-54.jpg)
 
 #### Mission 2 :
 
