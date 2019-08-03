@@ -36,5 +36,5 @@ def detail(url):
 
 top_seller()
 
-# driver.close()
+driver.close()
 

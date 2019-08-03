@@ -107,3 +107,4 @@ When running your code result should some thing like below video
 In mission 2 you will see from result that some of game require you above age of 18 in order to view description.
 
 To solve this issue we will try to login to steam before doing scraping.
+
