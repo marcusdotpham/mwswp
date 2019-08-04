@@ -81,7 +81,7 @@ Alexander, Kyle
 
 
 
-#### Mission 2 : Scrape name and detail link of all active player
+#### Mission 2 : Scrape name and detail link of all active player (Try it your self)
 
 In this mission we scrape name and correspond link to detail information of that player.
 
@@ -102,7 +102,7 @@ Adams, Jaylen
 
 
 
-####  Mission 3 : Scrape detail information for each player
+####  Mission 3 : Scrape detail information for each player (Try it your self)
 
 When click to detail link, you will know player detail information
 
@@ -141,7 +141,7 @@ pie :  12.0
 
 
 
-#### Mission 4 : Scrape image for all players
+#### Mission 4 : Scrape image for all players (Try it your self)
 
 Now we want to get image for each player
 

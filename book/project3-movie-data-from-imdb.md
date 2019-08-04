@@ -70,7 +70,7 @@ And then running above code we will have following result
 
 
 
-#### Mission 2 : Scrape List of Best ever Movies with Detail Information
+#### Mission 2 : Scrape List of Best ever Movies with Detail Infor (Try it your self)
 
 From above full title we could extract following information
 
@@ -98,7 +98,7 @@ link   :  /title/tt0068646/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=e31d89dd-322d-4646-89
 
 
 
-#### Mission 3 : Scrape large poster for all movies
+#### Mission 3 : Scrape large poster for all movies (Try it your self)
 
 With each individual movie, when click to detail link, detail page will show up. In detail page contain large poster that we want to scrape in this mission.
 

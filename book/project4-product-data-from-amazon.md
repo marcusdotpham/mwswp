@@ -2,5 +2,9 @@
 layout: default
 ---
 
-#### Setting up selenium web driver
+#### Amazon projects
+
+Amazon is largest ecommerce site in the world. We will do following web scraping task on Amazon:
+
+* 
 
