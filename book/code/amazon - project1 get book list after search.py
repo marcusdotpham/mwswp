@@ -20,9 +20,3 @@ def get_book_list():
 get_book_list()
 
 driver.close()
-
-
-
-
-
-

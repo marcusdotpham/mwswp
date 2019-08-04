@@ -10,5 +10,5 @@ layout: default
 [Project 1 - Basket Ball Data from Nba](book/project1-basketball-data-from-nba.html)  
 [Project 2 - Game Data from Steam](book/project2-game-data-from-steam.html)  
 [Project 3 - Movie Data from Imdb](book/project3-movie-data-from-imdb.html)  
-[Project 4 - Product Data from Amazon - on going]()  
+[Project 4 - Product Data from Amazon](book/project4-product-data-from-amazon.html)  
 [Project 5 - People Data from Linkedin - on going]()  

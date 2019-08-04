@@ -11,7 +11,7 @@ def get_book_list():
 	soup = BeautifulSoup(driver.page_source, 'lxml')
 	div = soup.find('div', class_='s-result-list')
 
-	for a in div.find_all('a', class_ = 'a-link-normal a-text-normal'):
+	for a in div.find_all('a', class_ = 'a-link-normal a-text-normal')[:1]:
 		print('title : ',a.text.replace('\n', ''))
 		print('link : ', a['href'])
 
