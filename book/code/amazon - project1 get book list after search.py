@@ -5,7 +5,7 @@ chrome_driver_path = r'C:\chromedriver_win32\chromedriver.exe'
 driver = webdriver.Chrome(executable_path=chrome_driver_path)
 
 def get_book_list():
-	url = 'https://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=python+programming'
+	url = 'https://www.amazon.com/s?k=python+programming'
 	driver.get(url)
 
 	soup = BeautifulSoup(driver.page_source, 'lxml')

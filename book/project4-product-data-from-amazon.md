@@ -9,6 +9,7 @@ Amazon is largest ecommerce site in the world. We will do following web scraping
 * Scrape book list "python programming", get book title and link to detail page.
 * Scrape detail information for each book in side "python programming" list
 * Scrape customer comment for each book inside "python programming" list
+* Scrape search result from multiple pages
 
 #### Mission 1 : scrape title and detail link
 
@@ -134,3 +135,12 @@ I teach an Intro to Python course, this will be MY required text!
 """
 ```
 
+
+
+#### Mission 4 : scrape book from multiple pages (try it your self)
+
+We could see that search result for "python programming" contain multiple pages (here we see that have 20 pages).
+
+In this mission we will try to get book infor from all pages
+
+![](images/2019-08-04_23-52-11.jpg) 
