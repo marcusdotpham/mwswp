@@ -10,7 +10,7 @@ Amazon is largest ecommerce site in the world. We will do following web scraping
 * Scrape detail information for each book in side "python programming" list
 * Scrape customer comment for each book inside "python programming" list
 
-#### Mission 1 : Scrape title and detail link
+#### Mission 1 : scrape title and detail link
 
 Access the [link](https://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=python+programming) and you will see a list of python programming book
 
@@ -74,7 +74,7 @@ link :  /Python-Crash-Course-2nd-Edition/dp/1593279280/ref=sr_1_3?keywords=pytho
 
 
 
-#### Mission 2 : Scrape detail infor for each book (try it your self)
+#### Mission 2 : scrape detail infor for each book (try it your self)
 
 When click to each book, We will go to detail page, in this page for example we want to scrape for ISBN number and the book description.
 
@@ -111,7 +111,7 @@ your engines and code!Uses Python 2 and 3
 
 
 
-#### Mission 3 : Scrape customer comment for each book (try it your self)
+#### Mission 3 : scrape customer comment for each book (try it your self)
 
 In this mission, we also scrape inside detail page, but we want to get comment from reader. Just the most valueable comment. It is the top comment.
 
