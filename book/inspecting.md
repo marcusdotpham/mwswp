@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#### Inspecting Web Page with Chrome Developer Tool
+### Inspecting Web Page with Chrome Developer Tool
 
 At step 1, we will go in deep detail how to use `Chrome Developer Tool` to inspect web page.
 

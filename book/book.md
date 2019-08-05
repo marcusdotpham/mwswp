@@ -1,8 +1,5 @@
----
-layout: default
----
 
-#### The Big Picture : Scrape any Website in 4 Steps
+### The Big Picture : Scrape any Website in 4 Steps
 
 ![](images/big_picture.png)
 
@@ -41,11 +38,8 @@ Have 2 reasons:
 
 We need [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/) to parse HTML in to object. Beautiful Soup provide functions help us to search HTML tags inside HTML object.
 
-After have HTML tags, final step just about access wanted data and save.---
-layout: default
----
-
-#### Inspecting Web Page with Chrome Developer Tool
+After have HTML tags, final step just about access wanted data and save.
+### Inspecting Web Page with Chrome Developer Tool
 
 At step 1, we will go in deep detail how to use `Chrome Developer Tool` to inspect web page.
 
@@ -87,7 +81,7 @@ Now after know the `div` tag which contain all news, we need continue go to each
 
 Continue try to moving the mouse around, we will see that titles and link are inside `a` tag which have class name `content_list--item clearfix`.
 
-![](/images/2019-07-27_20-14-06.jpg)
+![](images/2019-07-27_20-14-06.jpg)
 
 
 
@@ -125,11 +119,8 @@ That it, now let sumary again strategy to get detail information for each player
 * From url https://www.nba.com/players search for `div` tag which has class name `players-wrapper`.
 * Inside `div` above, search for all `a` tags which has class name `playerList`.
 * Which each `a` tags above, we scrape `href` attribute to have link to detail information for each player.
-* Inside each detail url, for example https://www.nba.com/players/steven/adams/203500 we search for `div` tag which has class name `nba-player-vitals` . Inside this `div` tag contain all detail data we need.---
-layout: default
----
-
-#### Download HTML Page Content
+* Inside each detail url, for example https://www.nba.com/players/steven/adams/203500 we search for `div` tag which has class name `nba-player-vitals` . Inside this `div` tag contain all detail data we need.
+### Download HTML Page Content
 
 At step 2,  we will download HTML page content with selenium package. And try to control Chrome web browser in two mode normal mode and headness mode.
 
@@ -250,10 +241,7 @@ print(driver.page_source)
 
 # close browser
 driver.close()
-```---
-layout: default
----
-
+```
 ### Create Soup and Search for Tag
 
 At step 3, after have HTML content downloaded with selenium, we use `beautiful soup` to parse the HTML and start search for tags which contain our wanted data.
@@ -421,11 +409,8 @@ And it print out
 """
 <b>The Dormouse's story</b>
 """
-```---
-layout: default
----
-
-#### Scrape Data from Tag
+```
+### Scrape Data from Tag
 
 Congratulations, so you come to the final step. And at this step we will harvest out result.
 
@@ -505,11 +490,8 @@ http://example.com/tillie
 
 
 
----
-layout: default
----
 
-#### NBA projects introduction
+### NBA projects introduction
 
 [NBA](nba.com) is popular site when you want to to find information about men's professional basketball league in North America. In this chapter we will do 4 difference missions to scraping data on this site.
 
@@ -660,11 +642,8 @@ Result should as following video
 
 <video width="700" height="500" controls>  
     <source src="images/player_image.mp4" type="video/mp4">
-</video>---
-layout: default
----
-
-#### Steam projects
+</video>
+### Steam projects
 
 Steam is a video game digital distribution platform developed by Valve Corporation. We have 2 mission when scrape data from Steam
 
@@ -770,11 +749,8 @@ In mission 2 you will see from result that some of game require you above age of
 
 To solve this issue we will try to login to steam before doing scraping.
 
----
-layout: default
----
 
-#### IMDb projects
+### IMDb projects
 
 IMDb (Internet Movie Database) is an online database of information related to films, television programs, home videos, video games, and streaming content online – including cast, production crew and personal biographies, plot summaries, trivia, fan and critical reviews, and ratings.
 
@@ -884,11 +860,8 @@ Let's try your self to scrape these posters, it will be very interesting. Result
     <source src="images/poster.mp4" type="video/mp4">
 </video>
 
----
-layout: default
----
 
-#### Amazon projects
+### Amazon projects
 
 Amazon is largest ecommerce site in the world. We will do following web scraping task on Amazon:
 

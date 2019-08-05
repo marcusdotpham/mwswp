@@ -12,4 +12,5 @@ with open('book.md', 'w') as outfile:
     for fname in filenames:
         with open(fname) as infile:
             for line in infile:
-                outfile.write(line)
+            	if ('---' not in line) and ('layout: default' not in line):
+                	outfile.write(line)

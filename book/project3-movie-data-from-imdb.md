@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#### IMDb projects
+### IMDb projects
 
 IMDb (Internet Movie Database) is an online database of information related to films, television programs, home videos, video games, and streaming content online – including cast, production crew and personal biographies, plot summaries, trivia, fan and critical reviews, and ratings.
 

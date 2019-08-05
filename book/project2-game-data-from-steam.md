@@ -2,7 +2,7 @@
 layout: default
 ---
 
-#### Steam projects
+### Steam projects
 
 Steam is a video game digital distribution platform developed by Valve Corporation. We have 2 mission when scrape data from Steam
 
