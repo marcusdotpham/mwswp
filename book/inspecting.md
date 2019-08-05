@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### Inspecting Web Page with Chrome Developer Tool
+#### Inspecting Web Page with Chrome Developer Tool
 
 At step 1, we will go in deep detail how to use `Chrome Developer Tool` to inspect web page.
 
@@ -44,7 +44,7 @@ Now after know the `div` tag which contain all news, we need continue go to each
 
 Continue try to moving the mouse around, we will see that titles and link are inside `a` tag which have class name `content_list--item clearfix`.
 
-![](/images/2019-07-27_20-14-06.jpg)
+![](images/2019-07-27_20-14-06.jpg)
 
 
 

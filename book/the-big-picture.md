@@ -2,7 +2,7 @@
 layout: default
 ---
 
-### The Big Picture : Scrape any Website in 4 Steps
+#### The Big Picture : Scrape any Website in 4 Steps
 
 ![](images/big_picture.png)
 
